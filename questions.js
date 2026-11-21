@@ -22,6 +22,13 @@ const questionSource = `Genesis 37|GEN37
 31–33|What did the brothers use to stain Joseph’s robe?|Goat’s blood|Red dye|Wine|Lamb’s blood
 34–35|How did Jacob respond to Joseph’s apparent death?|He mourned and refused comfort|He sent his sons to buy grain|He moved to Egypt at once|He held a feast
 36|Who bought Joseph in Egypt?|Potiphar|The chief cupbearer|The chief baker|Pharaoh’s wise men
+2|Whose sons are named as Joseph’s companions when he was tending the flock?|Bilhah’s and Zilpah’s|Leah’s and Rachel’s|Rachel’s and Bilhah’s|Leah’s and Zilpah’s
+11|How did Joseph’s brothers feel about him after hearing about his second dream?|They were jealous|They were proud|They were afraid for him|They felt sorry for him
+15–17|Who told Joseph that his brothers had gone to Dothan?|A man who found him wandering in a field|His father Jacob|A trader from Gilead|A servant of Potiphar
+18–19|When did the brothers begin plotting against Joseph?|When they saw him from a distance|After returning to Jacob|When the caravan reached Egypt|After Reuben found the pit empty
+23–25|What did the brothers do after throwing Joseph into the pit?|Sat down to eat|Ran to tell Jacob|Followed Reuben home|Started selling their flock
+32–33|Who recognized the bloodstained robe as Joseph’s?|Jacob|A trader from Gilead|Potiphar|The man at Shechem
+35|Who tried to comfort Jacob?|His sons and daughters|The merchants|Pharaoh’s officers|His shepherds
 Genesis 39|GEN39
 1|What was Potiphar’s position?|Captain of Pharaoh’s guard|Chief baker|Chief cupbearer|Keeper of Pharaoh’s cattle
 2–3|Who made Joseph’s work prosper in Potiphar’s house?|The Lord|Pharaoh|Potiphar’s wife|The chief cupbearer
@@ -36,6 +43,14 @@ Genesis 39|GEN39
 19–20|Where did Potiphar put Joseph after hearing the accusation?|In the prison for the king’s prisoners|In a pit near Dothan|In the fields of his estate|In the chief baker’s house
 21–22|Who put Joseph in charge of the other prisoners?|The keeper of the prison|The chief cupbearer|Pharaoh’s chief baker|Joseph’s brothers
 23|Why did the prison keeper trust Joseph with his duties?|The Lord was with Joseph and made his work prosper|Joseph paid the keeper|Pharaoh wrote him a letter|The prisoners voted for him
+1|From whom did Potiphar buy Joseph?|The Ishmaelites|The king’s prisoners|Egypt’s wise men|Pharaoh’s guards
+3–4|What did Potiphar notice about Joseph before putting him in charge?|The Lord made Joseph’s work successful|Joseph could read Pharaoh’s letters|The guards had chosen Joseph to lead them|Joseph’s family owned many fields
+11|Why did Joseph go inside the house on the day he left his garment behind?|To do his work|To meet the prison keeper|To deliver bread|To look for his brothers
+11–12|Who among the men of the household was inside when Potiphar’s wife grabbed Joseph’s garment?|None of them|Only the guards|Only Potiphar|All of them
+14–17|Who heard the wife’s accusation before Potiphar came home?|The men of the household|Pharaoh’s wise men|The two imprisoned officers|Joseph’s brothers
+14–17|How did Potiphar’s wife describe Joseph’s origin when accusing him?|She called him a Hebrew|She called him a native Egyptian|She called him a Moabite|She called him a Philistine
+19|How did Potiphar react when he heard what his wife said?|He became angry|He laughed|He asked Pharaoh for advice|He left without reacting
+21|How did the Lord show kindness to Joseph in prison?|He gave him favor with the prison keeper|He sent his brothers to visit him|He brought Potiphar to apologize|He brought Pharaoh to hear his case
 Genesis 40|GEN40
 1–4|Which two officers were placed in custody where Joseph was held?|The chief cupbearer and chief baker|The chief baker and captain of the guard|The chief cupbearer and chief musician|The captain of the guard and chief steward
 4|Who was assigned to take care of the two officers?|Joseph|Pharaoh|The prison keeper’s son|A palace musician
@@ -52,6 +67,14 @@ Genesis 40|GEN40
 18–19|What did Joseph predict would happen to the baker after three days?|He would be executed|He would become cupbearer|He would be restored to office|He would be released and sent home
 20–22|What occasion was Pharaoh celebrating when the dreams came true?|His birthday|His wedding|The first harvest|His son’s birthday
 23|What did the cupbearer do after his release?|He forgot Joseph|He freed Joseph immediately|He brought Joseph’s family to Egypt|He gave Joseph a new robe
+1–3|Why were Pharaoh’s two officers put in custody?|They had offended Pharaoh|They had lost the prison keys|They had argued over grain|They had refused to tell their dreams
+5|When did the two officers have their dreams?|On the same night|On consecutive nights|A month apart|On separate birthdays
+6–8|How did Joseph learn that the two officers had dreamed?|He asked why they looked sad|Pharaoh sent him a message|The prison keeper showed him a letter|He overheard them talking to the guards
+10|What fruit grew on the branches in the cupbearer’s dream?|Grapes|Figs|Pomegranates|Olives
+11|Whose hand received the cup in the cupbearer’s dream?|Pharaoh’s|Joseph’s|Potiphar’s|The baker’s
+16|What led the chief baker to tell Joseph his own dream?|He saw that the cupbearer’s interpretation was favorable|Joseph promised him a reward|Pharaoh sent for both officers|The prison keeper required a report
+17|Who was the food in the baker’s top basket meant for?|Pharaoh|Joseph|The captain of the guard|The cupbearer
+20|For whom did Pharaoh hold a birthday feast?|All his servants|Only his family|Only the prison guards|The traders from Gilead
 Genesis 41|GEN41
 1|How much time had passed when Pharaoh had his dreams?|Two full years|Three days|Seven months|Ten years
 1–4|In Pharaoh’s first dream, what ate the seven healthy cows?|Seven thin cows|Seven birds|Seven wolves|Seven goats
@@ -82,6 +105,18 @@ Genesis 41|GEN41
 52|Which son’s name recalled God making Joseph fruitful in the land of his hardship?|Ephraim|Manasseh|Reuben|Benjamin
 55|To whom did Pharaoh send the hungry people for help?|Joseph|The chief cupbearer|The magicians|The priest of On
 56–57|Why did people from other lands come to Egypt?|To buy grain during the famine|To celebrate Pharaoh’s birthday|To study dreams|To buy livestock during the harvest
+2|Where did the seven healthy cows feed in Pharaoh’s dream?|In the marsh grass|In a field of wheat|On a rocky hillside|In Pharaoh’s courtyard
+5|How many stalks held the seven good heads of grain?|One|Two|Seven|Fourteen
+8|How did Pharaoh feel in the morning after the dreams?|Troubled|Amused|Relieved|Indifferent
+12–13|What convinced the cupbearer that Joseph’s interpretations had been accurate?|Both officers’ outcomes matched what Joseph had said|The wise men had agreed with Joseph|Joseph had dreamed the same dreams|Pharaoh had written the interpretations down
+28–31|How severe would the famine be after the years of plenty?|The earlier abundance would be forgotten|Only one city would be affected|There would still be plenty left over|Only the cattle would go hungry
+33–34|Besides a wise leader, whom did Joseph advise Pharaoh to appoint?|Overseers across the land|More court magicians|A second chief baker|Traveling musicians
+42|What clothing did Pharaoh give Joseph when promoting him?|Fine linen garments|A wool shepherd’s cloak|A leather soldier’s coat|A sackcloth robe
+44|What authority did Pharaoh give Joseph throughout Egypt?|People would need Joseph’s permission to act|Joseph could manage only the prison|Joseph could sell grain only in one city|Joseph could oversee only Pharaoh’s flocks
+46|What did Joseph do after leaving Pharaoh’s presence?|Traveled throughout Egypt|Returned to the prison|Moved to Canaan|Went to look for the cupbearer
+50|When were Joseph’s two sons born?|Before the famine began|During the first year of famine|After the famine ended|While Joseph was still in prison
+54|Where was there food when famine struck other lands?|Egypt|Every surrounding land|Only in Gilead|Only in Canaan
+56|What did Joseph do when the famine spread across Egypt?|Opened the storehouses and sold grain|Closed the storehouses until the harvest|Sent the grain back to the farmers|Stopped selling grain to Egyptians
 Philippians 4|PHP04
 1|How does Paul describe the people he urges to stand firm?|His joy and crown|His guards and servants|His teachers and judges|His hosts and messengers
 2|Which two women does Paul urge to agree in the Lord?|Euodia and Syntyche|Asenath and Zilpah|Martha and Mary|Priscilla and Lydia
@@ -105,4 +140,16 @@ Philippians 4|PHP04
 19|How does Paul say God will supply their needs?|According to his riches in glory in Christ Jesus|According to the size of their gifts|By sending the same gift to everyone|According to the wealth of their city
 20|To whom does Paul give glory forever?|God our Father|Caesar|Clement|The Philippians
 21–22|Which group does Paul especially mention as sending greetings?|Those of Caesar’s household|Egypt’s wise men|The guards of Potiphar|The merchants of Thessalonica
-23|What does Paul ask to be with them at the close?|The grace of the Lord Jesus Christ|The wealth of Macedonia|The wisdom of the chief baker|The favor of Caesar`;
+23|What does Paul ask to be with them at the close?|The grace of the Lord Jesus Christ|The wealth of Macedonia|The wisdom of the chief baker|The favor of Caesar
+1|In whom does Paul urge the Philippians to stand firm?|The Lord|Caesar|Their fellow workers|Their leaders
+3|What does Paul ask his trusted partner to do for Euodia and Syntyche?|Help them|Replace them|Send them to Macedonia|Keep them away from the other workers
+5|What reminder does Paul give immediately after asking believers to show gentleness?|The Lord is near|The harvest has ended|Clement is traveling|The gift has arrived
+6|To whom should believers make their requests known?|God|Caesar|Clement|The church in Thessalonica
+7|How does Paul describe the peace of God?|It surpasses all understanding|It depends on having enough food|It is available only during worship|It comes from understanding every problem
+9|Who does Paul say will be with those who practice what they learned from him?|The God of peace|Caesar’s household|The leaders of Macedonia|The church in Thessalonica
+10|What made Paul rejoice when the Philippians had another opportunity to help him?|Their renewed expression of concern|Their move to Thessalonica|Their appointment of a new leader|Their visit to Caesar
+12|Which two experiences does Paul mention when describing what he learned about contentment?|Being well fed and being hungry|Being young and being old|Traveling by land and by sea|Leading a church and leaving it
+15|From which region had Paul departed when he recalls the Philippians partnering with him?|Macedonia|Egypt|Canaan|Galilee
+16|How often did the Philippians send help while Paul was in Thessalonica?|More than once|Only once|Never|Only after he left
+18|How did Paul describe his situation after receiving their gifts?|He had more than enough|He was still waiting for the gifts|He needed to return the gifts|He had received only part of what was sent
+21|Whom does Paul ask the Philippians to greet?|Every believer in Christ Jesus|Only members of Caesar’s household|Only Euodia and Syntyche|Only people who sent gifts`;
