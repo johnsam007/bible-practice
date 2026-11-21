@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#122e2a">
+  <meta name="description" content="Multiple-choice Bible practice for Genesis 37, 39, 40, 41 and Philippians 4.">
+  <title>Bible Practice</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="questions.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header><div class="shell brand">Bible Practice</div></header>
+  <main class="shell">
+    <section id="home" class="card">
+      <p class="tag">Grades 7–8</p>
+      <h1>Choose your practice</h1>
+      <p>Answer one question at a time and check the verse after each answer.</p>
+      <div class="featured">
+        <button class="primary" id="mixed">Start 60-question practice</button>
+        <button id="all">Practice all <span id="total"></span> questions</button>
+      </div>
+      <h2>Practice by chapter</h2>
+      <div id="chapters" class="chapters"></div>
+    </section>
+    <section id="quiz" class="card" hidden>
+      <div class="line"><p class="tag" id="position"></p><button type="button" id="exit" class="quiet">Practice menu</button></div>
+      <progress id="progress" aria-label="Quiz progress"></progress>
+      <p class="chapter" id="chapter"></p>
+      <h1 id="question" tabindex="-1"></h1>
+      <form id="form">
+        <fieldset id="answers" aria-labelledby="question"></fieldset>
+        <div id="feedback" role="status"></div>
+        <div class="actions"><button type="submit" class="primary" id="check" disabled>Check answer</button><button type="button" class="primary" id="next" hidden>Next question</button></div>
+      </form>
+    </section>
+    <section id="results" class="card" hidden>
+      <p class="tag">Practice complete</p>
+      <h1 id="score" tabindex="-1"></h1>
+      <p id="summary"></p>
+      <div class="featured"><button id="retry" class="primary" hidden>Retry missed questions</button><button id="menu">Practice menu</button></div>
+      <div id="review"></div>
+    </section>
+  </main>
+</body>
+</html>
