@@ -43,3 +43,9 @@ a { color: #0c5a50; }
   .actions button { width: 100%; }
   .tag { letter-spacing: .025em; }
 }
+
+.actions { gap: .6rem; }
+.match-row, .jump { display: grid; gap: .35rem; }
+.match-row { padding: .5rem 0; font-weight: 650; }
+.jump { margin-top: 1rem; }
+select { min-height: 3rem; width: 100%; padding: .5rem; border: 1px solid var(--border); border-radius: .65rem; background: #fff; color: inherit; font: inherit; }
